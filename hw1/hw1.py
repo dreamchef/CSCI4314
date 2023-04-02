@@ -128,3 +128,5 @@ def visualize_particles(N, x, L, pairs, mytitle):
     return
 
 Polymer_MD_Python()
+
+#%%
